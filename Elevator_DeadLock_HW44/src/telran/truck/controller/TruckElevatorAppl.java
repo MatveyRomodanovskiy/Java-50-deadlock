@@ -35,5 +35,4 @@ public class TruckElevatorAppl {
 		System.out.println("Elevator " + stalin.getName() + " have " + 
 		stalin.getCurrentVolume() + " tonn");
 	}
-
 }

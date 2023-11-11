@@ -7,8 +7,7 @@ import telran.truck.model.Elevator;
 public class Truck implements Runnable {
 	int nRaces;
 	int capacity;
-	ArrayList<Elevator> elevators;
-	
+	ArrayList<Elevator> elevators;	
 
 	public Truck(int nRaces, int capacity, ArrayList<Elevator> elevators) {
 		this.nRaces = nRaces;

@@ -32,6 +32,6 @@ public class Elevator {
 	public  void add(int portion) {
 		
 			currentVolume += portion;
-		
+	
 	}
 }
